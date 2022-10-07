@@ -16,5 +16,7 @@ make sure to have
 1. a nerd font installed
 2. quicksand font installed
 3. [starship prompt](https://starship.rs/) for fish
+4. [power menu](https://github.com/jluttine/rofi-power-menu) for rofi
+5. [network manager](https://github.com/P3rf/rofi-network-manager) for rofi
 
 <image src="https://github.com/sharpcdf/dotfiles/blob/main/preview.png"/>
