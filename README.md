@@ -2,7 +2,7 @@
 my dotfiles for endeavoros(i3)
 
 
-WM: i3
+WM: i3-gaps
 Terminal: kitty
 Shell: fish
 Bar: Polybar
